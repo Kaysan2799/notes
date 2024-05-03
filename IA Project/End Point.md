@@ -1,4 +1,4 @@
->[!Tip] ### API End Point
+C### API End Point
 >```js
 router.post('/login',
 body('email', "Your email is incorrect").isEmail(),
